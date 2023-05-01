@@ -31,6 +31,7 @@ body{
     display: flex;
     gap: 32px;
     cursor: pointer;
+    
 }
 
 .cabecalho-menu-item{
@@ -38,6 +39,7 @@ body{
     color: #FFF2E7;
     font-weight: 400;
     font-size: 18px;
+    
 }
 .cabecalho-menu-item:hover{
     color:green;
